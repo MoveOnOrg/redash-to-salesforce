@@ -23,7 +23,7 @@
     "dotenv-safe": "^4.0.4",
     "dotenv-webpack": "^1.5.4",
     "lodash.chunk": "^4.2.0",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.0",
     "node-salesforce-connection": "^2.3.0",
     "timeout-then": "^1.1.0",
     "uglifyjs-webpack-plugin": "^1.0.0-beta.2",
