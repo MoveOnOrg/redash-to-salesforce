@@ -19,7 +19,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-es2017": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
-    "clean-webpack-plugin": "^0.1.16",
+    "clean-webpack-plugin": "^3.0.0",
     "dotenv-safe": "^4.0.4",
     "dotenv-webpack": "^1.5.4",
     "lodash.chunk": "^4.2.0",
