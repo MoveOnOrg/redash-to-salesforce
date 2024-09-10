@@ -1,4 +1,8 @@
-# Redash to Salesforce
+# [DEPRECATED] Redash to Salesforce
+
+*This repo is not maintained. Please use a [`parsons`](https://github.com/move-coop/parsons) based script for Salesforce data eng needs.*
+
+----
 
 Simple NodeJS utility that fetches Redash query results via API and upserts the data to desired Salesforce objects using the [Salesforce REST Bulk API](https://developer.salesforce.com/docs/atlas.en-us.api_asynch.meta/api_asynch/asynch_api_intro.htm), leveraging the lightweight [node-salesforce-connection](https://www.npmjs.com/package/node-salesforce-connection) package for session authentication and REST request abstraction.
 
